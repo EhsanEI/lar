@@ -1,5 +1,4 @@
-# lar
-Label Alignment Regularization
+# Label Alignment Regularization
 
 For a quick demo run synthetic_clf.py and then plot_synthetic.py.
 
